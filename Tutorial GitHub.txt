@@ -1,0 +1,5 @@
+Comandos de git
+Primero debo tener un repositorio creado (con archivo Readme).
+Para clonarlo uso el "git clone" (link del repositorio).
+Agregar los archivos nuevos o modificados con "git add .".
+Hacer "git commit -m "Mensaje del commit".
