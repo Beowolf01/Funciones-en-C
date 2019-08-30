@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567178221 source:d:\paredes\funciones-en-c\tuto funciones clase 04\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567180212 source:d:\paredes\funciones-en-c\tuto funciones clase 04\aritmeticas.c
+	"Aritmeticas.h"
+
+1567180205 d:\paredes\funciones-en-c\tuto funciones clase 04\aritmeticas.h
+	<stdio.h>
+
